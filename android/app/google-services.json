@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "571247100773",
+    "project_id": "aignite-2f4c8",
+    "storage_bucket": "aignite-2f4c8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:571247100773:android:e65f4b16baf168c51f978c",
+        "android_client_info": {
+          "package_name": "com.example.aignite"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmRqT-NY5z-CKa1LHDsL_z1-Ch98_rLkM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
